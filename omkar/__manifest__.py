@@ -28,6 +28,8 @@
         'reports/reports.xml',
         # 'views/templates.xml',
     ],
+    'license': 'AGPL-3',
+    'images': ['static/description/icon.png'],
     # only loaded in demonstration mode
     'installable': True,
     'application': True,
